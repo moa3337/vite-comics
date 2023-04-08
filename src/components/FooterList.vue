@@ -4,7 +4,7 @@
 <template>
     <footer>
         <div class="footer-1">
-            <div class="list-box">
+            <div class="list-box pt-4">
                 <ul>
                     <h6>DC COMICS</h6>
                     <li><a href="">Characters</a></li>
@@ -47,10 +47,18 @@
             </div>
         </div>
         <div class="footer-2">
-            <div class="nav">
+            <div class="mynav h-100">
                 <button type="button" class="border border-3 border-primary">SIGN-UP NOW!</button>
-                <div>
-                    <h3>FOLLOW US</h3>
+                <div class="d-flex">
+                    <h3 class="me-2">FOLLOW US</h3>
+                    <div class="">
+                        <img class="m-2" src="../assets/img/footer-facebook.png" alt="">
+                        <img class="m-2" src="../assets/img/footer-periscope.png" alt="">
+                        <img class="m-2" src="../assets/img/footer-pinterest.png" alt="">
+                        <img class="m-2" src="../assets/img/footer-twitter.png" alt="">
+                        <img class="m-2" src="../assets/img/footer-youtube.png" alt="">
+
+                    </div>
                 </div>
             </div>
         </div>

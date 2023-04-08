@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div class="nav">
+    <div class="mynav">
         <a href="#">
             <img class="logo" src="../assets/img/dc-logo.png" alt="">
         </a>

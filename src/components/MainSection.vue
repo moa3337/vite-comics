@@ -2,10 +2,10 @@
 </script>
 
 <template>
-    <div class="container-fluid">
+    <div class="container-fluid p-0">
         <div class="section-1">
             <div class="first-box">
-                <h1>--> Content goes here >--</h1>
+                <h1>Content goes here</h1>
             </div>
         </div>
         <div class="section-2">
